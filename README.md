@@ -41,8 +41,6 @@ A tour and travel company wants to know, ahead of time, which customers are like
 | Recall | 65% |
 | F1 Score | 71% |
 
-Full write-up, literature comparison of ANN vs. Decision Tree vs. Naïve Bayes vs. Logistic Regression, and figures are in [`docs/assignment-report.pdf`](./docs/assignment-report.pdf).
-
 ## Why ANN-MLP
 
 The assignment report compares ANN-MLP against Decision Tree, Naïve Bayes, and Logistic Regression for this problem — ANN-MLP was selected for its ability to model non-linear relationships between the mixed categorical/numerical features without manual feature interaction terms, at the cost of being less interpretable than the simpler baselines.
